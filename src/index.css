@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+}
+
+button {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.active {
+  font-weight: bold;
+}
